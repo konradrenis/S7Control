@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DyskGoogle\\reposd\\DataCollector\\DataCollector\\DataCollector.csproj": {}
+  },
+  "projects": {
+    "D:\\DyskGoogle\\reposd\\DataCollector\\DataCollector\\DataCollector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DyskGoogle\\reposd\\DataCollector\\DataCollector\\DataCollector.csproj",
+        "projectName": "DataCollector",
+        "projectPath": "D:\\DyskGoogle\\reposd\\DataCollector\\DataCollector\\DataCollector.csproj",
+        "packagesPath": "C:\\Users\\konra\\.nuget\\packages\\",
+        "outputPath": "D:\\DyskGoogle\\reposd\\DataCollector\\DataCollector\\obj\\publish\\linux-arm\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\konra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "S7netplus": {
+              "target": "Package",
+              "version": "[0.13.0, )"
+            },
+            "Vibrant.InfluxDB.Client": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

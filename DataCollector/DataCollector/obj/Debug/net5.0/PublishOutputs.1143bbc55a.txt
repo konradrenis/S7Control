@@ -1,0 +1,8 @@
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\DataCollector.exe
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\DataCollector.dll
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\DataCollector.deps.json
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\DataCollector.runtimeconfig.json
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\DataCollector.pdb
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\S7.Net.dll
+D:\Dysk\reposd\DataCollector\DataCollector\bin\Debug\net5.0\publish\Vibrant.InfluxDB.Client.dll

@@ -1,0 +1,8 @@
+D:\Dysk\release\DC1\DataCollector
+D:\Dysk\release\DC1\DataCollector.dll
+D:\Dysk\release\DC1\DataCollector.deps.json
+D:\Dysk\release\DC1\DataCollector.runtimeconfig.json
+D:\Dysk\release\DC1\DataCollector.pdb
+D:\Dysk\release\DC1\Newtonsoft.Json.dll
+D:\Dysk\release\DC1\S7.Net.dll
+D:\Dysk\release\DC1\Vibrant.InfluxDB.Client.dll

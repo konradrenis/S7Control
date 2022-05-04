@@ -1,0 +1,8 @@
+D:\DyskGoogle\release\DC8\DataCollector
+D:\DyskGoogle\release\DC8\DataCollector.dll
+D:\DyskGoogle\release\DC8\DataCollector.deps.json
+D:\DyskGoogle\release\DC8\DataCollector.runtimeconfig.json
+D:\DyskGoogle\release\DC8\DataCollector.pdb
+D:\DyskGoogle\release\DC8\Newtonsoft.Json.dll
+D:\DyskGoogle\release\DC8\S7.Net.dll
+D:\DyskGoogle\release\DC8\Vibrant.InfluxDB.Client.dll
