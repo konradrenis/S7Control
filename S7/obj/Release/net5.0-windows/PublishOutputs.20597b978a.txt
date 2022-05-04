@@ -1,0 +1,13 @@
+C:\Users\konra\Desktop\release\S7.exe
+C:\Users\konra\Desktop\release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\konra\Desktop\release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\konra\Desktop\release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\konra\Desktop\release\S7.dll
+C:\Users\konra\Desktop\release\S7.deps.json
+C:\Users\konra\Desktop\release\S7.runtimeconfig.json
+C:\Users\konra\Desktop\release\S7.pdb
+C:\Users\konra\Desktop\release\InfluxDB.LineProtocol.dll
+C:\Users\konra\Desktop\release\Microsoft.Web.WebView2.Core.dll
+C:\Users\konra\Desktop\release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\konra\Desktop\release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\konra\Desktop\release\S7.Net.dll

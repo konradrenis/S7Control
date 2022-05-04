@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\DyskGoogle\reposd\S7\S7\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnalogControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Measurements.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OnOffControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Visu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

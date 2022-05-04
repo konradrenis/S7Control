@@ -1,0 +1,139 @@
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.exe
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.deps.json
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.json
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.dev.json
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.pdb
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\InfluxDB.LineProtocol.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Dysk Google\reposd\S7\S7\bin\Debug\net5.0-windows\S7.Net.dll
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.AssemblyReference.cache
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AnalogControl.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Control.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormConnect.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormMain.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Info.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Measurements.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.OnOffControl.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Properties.Resources.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Visu.resources
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.GenerateResource.cache
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfoInputs.cache
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfo.cs
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CoreCompileInputs.cache
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CopyComplete
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.dll
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.pdb
+D:\Dysk Google\reposd\S7\S7\obj\Debug\net5.0-windows\S7.genruntimeconfig.cache
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.exe
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.deps.json
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.json
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.dev.json
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.pdb
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\InfluxDB.LineProtocol.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Dysk\reposd\S7\S7\bin\Debug\net5.0-windows\S7.Net.dll
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AnalogControl.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Control.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormConnect.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormMain.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Info.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Measurements.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.OnOffControl.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Properties.Resources.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Visu.resources
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.GenerateResource.cache
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfoInputs.cache
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfo.cs
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CoreCompileInputs.cache
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CopyComplete
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.dll
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.pdb
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.genruntimeconfig.cache
+D:\Dysk\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.AssemblyReference.cache
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.exe
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.deps.json
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.json
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.dev.json
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.pdb
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\InfluxDB.LineProtocol.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Dysk Google 2\reposd\S7\S7\bin\Debug\net5.0-windows\S7.Net.dll
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.AssemblyReference.cache
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AnalogControl.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Control.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormConnect.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormMain.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Info.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Measurements.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.OnOffControl.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Properties.Resources.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Visu.resources
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.GenerateResource.cache
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfoInputs.cache
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfo.cs
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CoreCompileInputs.cache
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.dll
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\ref\S7.dll
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.pdb
+D:\Dysk Google 2\reposd\S7\S7\obj\Debug\net5.0-windows\S7.genruntimeconfig.cache
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.exe
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.deps.json
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.json
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.runtimeconfig.dev.json
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\ref\S7.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.pdb
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\InfluxDB.LineProtocol.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\DyskGoogle\reposd\S7\S7\bin\Debug\net5.0-windows\S7.Net.dll
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AnalogControl.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Control.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormConnect.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.FormMain.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Info.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Measurements.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.OnOffControl.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Properties.Resources.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.Visu.resources
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.GenerateResource.cache
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfoInputs.cache
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.AssemblyInfo.cs
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CoreCompileInputs.cache
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.CopyComplete
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.dll
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\ref\S7.dll
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.pdb
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.genruntimeconfig.cache
+D:\DyskGoogle\reposd\S7\S7\obj\Debug\net5.0-windows\S7.csproj.AssemblyReference.cache
